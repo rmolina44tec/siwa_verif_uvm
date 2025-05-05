@@ -6,7 +6,7 @@ This is a Verification Environment done for a RISC-V microcontroller called SIWA
 
 This project was developed at Tecnológico de Costa Rica.
 
-Programmers: Dr. Roberto Molina Robles, PhD. Tecnológico de Costa Rica and Ing. Javier Espinoza
+Programmers: Dr. Roberto Molina Robles, PhD. Tecnológico de Costa Rica and Eng. Javier Espinoza
 
 The picture shows the architecture of the environment.
 
